@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aiswaryaajayakumar.github.io./static/css/main.073c9b0a.css",
+    "main.js": "/aiswaryaajayakumar.github.io./static/js/main.242768b6.js",
+    "static/js/787.77beffb9.chunk.js": "/aiswaryaajayakumar.github.io./static/js/787.77beffb9.chunk.js",
+    "static/media/logo.svg": "/aiswaryaajayakumar.github.io./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aiswaryaajayakumar.github.io./index.html",
+    "main.073c9b0a.css.map": "/aiswaryaajayakumar.github.io./static/css/main.073c9b0a.css.map",
+    "main.242768b6.js.map": "/aiswaryaajayakumar.github.io./static/js/main.242768b6.js.map",
+    "787.77beffb9.chunk.js.map": "/aiswaryaajayakumar.github.io./static/js/787.77beffb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.242768b6.js"
+  ]
+}
