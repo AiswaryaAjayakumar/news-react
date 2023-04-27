@@ -8,7 +8,7 @@ export default class Tesla extends Component {
     }
     fetchNews=()=>{
         
-        axios.get("https://newsapi.org/v2/everything?q=tesla&from=2023-03-27&sortBy=publishedAt&apiKey=1b18e760e68349abb00d7c3658220f4f ").then(
+        axios.get("https://newsapi.org/v2/everything?q=tesla&from=2023-03-27&sortBy=publishedAt&apiKey=1b18e760e68349abb00d7c3658220f4f").then(
             (response)=>{
                 console.log(response.data.articles)
                 this.setState(
